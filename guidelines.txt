@@ -1,0 +1,41 @@
+rapport de stage: (total 30 pages sans annexes)
+
+	page de garde:
+		nom
+		intitulé poste
+		etablissements origine/acceuil
+		maitre de stage
+		dates
+		adresses
+		
+	avant-propos:
+		objectifs du rapport
+		motivations de l'etudiant
+		but du travail
+		
+	remerciements:
+		
+	sommaire:
+		
+	liste des tableaux et figures:
+		
+	liste des abbréviations:
+		
+	gloassaire:
+		
+	developpement:
+		présentation de l'entreprise
+		contexte objectifs du stage
+			1: Rh , 2: Tfp
+		developpement de la solution
+			1: Rh , 2: Tfp
+		tests et resultats
+	
+	conclusion:
+		reponse a problematique
+		limites et piste ameliorations
+		
+	biblio:
+		
+	annexes:
+		
